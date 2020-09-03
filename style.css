@@ -1,0 +1,30 @@
+
+#myBtn{
+    display:none;
+    position: fixed;
+      margin-left: -30px;
+    bottom: 20px;
+    right: 40px;
+    border:none;
+    background:rgb(0, 204, 255);
+    padding:5px 10px;
+     color: rgb(0, 0, 0);
+    border-radius:50%;
+    z-index: 1;
+    box-shadow: 0px 4px 13px 3px rgb(0, 0, 0);
+}
+
+#myBtn:hover{
+    display:none;
+    position: fixed;
+      margin-left: -30px;
+    bottom: 20px;
+    right: 40px;
+    
+    border:none;
+    transition: 0.4s ease;
+    background:rgb(255, 0, 128);
+    padding:5px 10px;
+     color: rgb(0, 255, 255);
+    border-radius:50%;
+}
